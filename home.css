@@ -1,0 +1,24 @@
+h1 {
+    font-size: 4em;
+    font-weight: 700;
+    line-height: 1.5em;
+    text-align: center;
+    color: #000000;
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+.card{
+    padding-left:30% ;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width:50%;
+}
+body {
+    font-family: cursive;
+    background: linear-gradient(blue, pink);
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+}
+.container{
+    padding-top:130px;
+}
